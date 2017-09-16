@@ -4,10 +4,12 @@
 
 # Install
 
-copy font to figlet fonts directory (path may vary):
+Copy font to figlet fonts directory (path may vary):
 
 ```bash
-/usr/share/figlet
+cd /usr/share/figlet
+
+wget https://raw.githubusercontent.com/miguelmota/figlet-ansi-normal-font/master/ANSI%20Normal.flf
 ```
 
 # Usage
