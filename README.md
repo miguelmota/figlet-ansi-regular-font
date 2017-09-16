@@ -18,20 +18,7 @@ wget https://raw.githubusercontent.com/miguelmota/figlet-ansi-normal-font/master
 $ echo "hello world" | figlet -f "ANSI Normal"
 ```
 
-<pre>
-██   ██ ███████ ██      ██       ██████ 
-██   ██ ██      ██      ██      ██    ██ 
-███████ █████   ██      ██      ██    ██ 
-██   ██ ██      ██      ██      ██    ██ 
-██   ██ ███████ ███████ ███████  ██████  
-                                        
-
-██     ██  ██████  ██████  ██      ██████ 
-██     ██ ██    ██ ██   ██ ██      ██   ██ 
-██  █  ██ ██    ██ ██████  ██      ██   ██ 
-██ ███ ██ ██    ██ ██   ██ ██      ██   ██ 
- ███ ███   ██████  ██   ██ ███████ ██████  
-</pre>
+<img src="./screenshot.png" width="320">
                                           
 
 # License
